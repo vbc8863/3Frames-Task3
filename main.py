@@ -1,4 +1,3 @@
-# File: main.py
 
 from product_configurator import Product, ProductConfigurator
 
@@ -9,7 +8,7 @@ def display_product(product):
     print(f"Product ID: {product['product_id']}, Category: {product['category']}, Description: {product['description']}")
 
 def search_products(configurator):
-    print("\nAvailable categories: Books, Electronics, Clothing")  # Add more categories as needed
+    print("\nAvailable categories: Books, Electronics, Clothing") 
     category = get_user_input("Enter the product category (leave blank to search all categories): ").strip()
 
     if category.lower() not in ["books", "electronics", "clothing"]:
@@ -27,7 +26,6 @@ def search_products(configurator):
     else:
         print("No matching products found.")
 
-    # Clear previous search results
     configurator.clear_search_results()
 
 def main():

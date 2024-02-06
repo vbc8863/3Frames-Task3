@@ -13,7 +13,7 @@ class ProductConfigurator:
     def __init__(self, filename="data.json"):
         self.filename = filename
         self.products = []
-        self.search_results = []  # Added search_results attribute
+        self.search_results = [] 
         self.load_from_file()
 
     def load_from_file(self):
@@ -21,7 +21,7 @@ class ProductConfigurator:
             with open(self.filename, 'r') as file:
                 self.products = json.load(file)
         except FileNotFoundError:
-            pass  # Ignore if the file doesn't exist initially
+            pass 
 
     def save_to_file(self):
         with open(self.filename, 'w') as file:
