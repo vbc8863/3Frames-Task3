@@ -42,7 +42,7 @@ class ProductConfiguratorUI:
         self.create_ui()
 
     def create_ui(self):
-        # Labels and Entry Fields
+        
         tk.Label(self.root, text="Search Product:").grid(row=0, column=0, padx=10, pady=5)
         search_entry = tk.Entry(self.root, textvariable=self.query_var, width=30, font=('Arial', 14))
         search_entry.grid(row=0, column=1, padx=10, pady=5, columnspan=2)
