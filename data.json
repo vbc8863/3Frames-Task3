@@ -1,308 +1,338 @@
 [
-    {
-        "product_id": 1,
-        "category": "Electronics",
-        "description": "Smartphone",
-        "details": ["5G", "128GB Storage"]
-    },
-    {
-        "product_id": 2,
-        "category": "Books",
-        "description": "Introduction to Algorithms",
-        "details": ["By Cormen", "Third Edition"]
-    },
-    {
-        "product_id": 3,
-        "category": "Clothing",
-        "description": "Men's Shirt",
-        "details": ["Cotton", "Slim Fit"]
-    },
-    {
-        "product_id": 4,
-        "category": "Electronics",
-        "description": "Laptop",
-        "details": ["Intel Core i7", "16GB RAM"]
-    },
-    {
-        "product_id": 5,
-        "category": "Books",
-        "description": "The Great Gatsby",
-        "details": ["By F. Scott Fitzgerald", "Classic Literature"]
-    },
-    {
-        "product_id": 6,
-        "category": "Clothing",
-        "description": "Women's Dress",
-        "details": ["Polyester", "Casual Wear"]
-    },
-    {
-        "product_id": 7,
-        "category": "Electronics",
-        "description": "Headphones",
-        "details": ["Wireless", "Noise Cancelling"]
-    },
-    {
-        "product_id": 8,
-        "category": "Books",
-        "description": "Python Programming",
-        "details": ["By Guido van Rossum", "Programming Guide"]
-    },
-    {
-        "product_id": 9,
-        "category": "Clothing",
-        "description": "Men's Jeans",
-        "details": ["Denim", "Regular Fit"]
-    },
-    {
-        "product_id": 10,
-        "category": "Electronics",
-        "description": "Digital Camera",
-        "details": ["20MP", "4K Video"]
-    },
-    {
-        "product_id": 11,
-        "category": "Books",
-        "description": "The Hobbit",
-        "details": ["By J.R.R. Tolkien", "Fantasy Fiction"]
-    },
-    {
-        "product_id": 12,
-        "category": "Clothing",
-        "description": "Women's Shoes",
-        "details": ["High Heels", "Leather"]
-    },
-    {
-        "product_id": 13,
-        "category": "Electronics",
-        "description": "Smart TV",
-        "details": ["55-inch", "4K HDR"]
-    },
-    {
-        "product_id": 14,
-        "category": "Books",
-        "description": "The Catcher in the Rye",
-        "details": ["By J.D. Salinger", "Coming of Age"]
-    },
-    {
-        "product_id": 15,
-        "category": "Clothing",
-        "description": "Men's Watch",
-        "details": ["Analog", "Leather Strap"]
-    },
-    {
-        "product_id": 16,
-        "category": "Electronics",
-        "description": "Gaming Console",
-        "details": ["PlayStation 5", "Ray Tracing"]
-    },
-    {
-        "product_id": 17,
-        "category": "Books",
-        "description": "To Kill a Mockingbird",
-        "details": ["By Harper Lee", "Southern Gothic"]
-    },
-    {
-        "product_id": 18,
-        "category": "Clothing",
-        "description": "Women's Handbag",
-        "details": ["Designer", "Leather"]
-    },
-    {
-        "product_id": 19,
-        "category": "Electronics",
-        "description": "Wireless Earbuds",
-        "details": ["Bluetooth", "Noise Isolation"]
-    },
-    {
-        "product_id": 20,
-        "category": "Books",
-        "description": "1984",
-        "details": ["By George Orwell", "Dystopian Fiction"]
-    },
-    {
-        "product_id": 21,
-        "category": "Clothing",
-        "description": "Men's Hat",
-        "details": ["Fedora", "Wool"]
-    },
-    {
-        "product_id": 22,
-        "category": "Electronics",
-        "description": "Fitness Tracker",
-        "details": ["Heart Rate Monitor", "Sleep Tracking"]
-    },
-    {
-        "product_id": 23,
-        "category": "Books",
-        "description": "Moby-Dick",
-        "details": ["By Herman Melville", "Adventure Novel"]
-    },
-    {
-        "product_id": 24,
-        "category": "Clothing",
-        "description": "Women's Sunglasses",
-        "details": ["UV Protection", "Fashion"]
-    },
-    {
-        "product_id": 25,
-        "category": "Electronics",
-        "description": "Wireless Mouse",
-        "details": ["Ergonomic Design", "DPI Adjustment"]
-    },
-    {
-        "product_id": 26,
-        "category": "Books",
-        "description": "The Lord of the Rings",
-        "details": ["By J.R.R. Tolkien", "High Fantasy"]
-    },
-    {
-        "product_id": 27,
-        "category": "Clothing",
-        "description": "Men's Backpack",
-        "details": ["Waterproof", "Laptop Compartment"]
-    },
-    {
-        "product_id": 28,
-        "category": "Electronics",
-        "description": "Smart Home Hub",
-        "details": ["Voice Control", "Home Automation"]
-    },
-    {
-        "product_id": 29,
-        "category": "Books",
-        "description": "Pride and Prejudice",
-        "details": ["By Jane Austen", "Romantic Novel"]
-    },
-    {
-        "product_id": 30,
-        "category": "Clothing",
-        "description": "Women's Scarf",
-        "details": ["Cashmere", "Winter Fashion"]
-    },
-    {
-        "product_id": 31,
-        "category": "Electronics",
-        "description": "Wireless Keyboard",
-        "details": ["Mechanical", "RGB Lighting"]
-    },
-    {
-        "product_id": 32,
-        "category": "Books",
-        "description": "Brave New World",
-        "details": ["By Aldous Huxley", "Dystopian Fiction"]
-    },
-    {
-        "product_id": 33,
-        "category": "Clothing",
-        "description": "Men's Wallet",
-        "details": ["Leather", "Slim Design"]
-    },
-    {
-        "product_id": 34,
-        "category": "Electronics",
-        "description": "Home Security Camera",
-        "details": ["1080p", "Motion Detection"]
-    },
-    {
-        "product_id": 34,
-        "category": "Electronics",
-        "description": "Home Security Camera",
-        "details": ["1080p", "Motion Detection"]
-    },
-    {
-        "product_id": 35,
-        "category": "Books",
-        "description": "The Odyssey",
-        "details": ["By Homer", "Epic Poetry"]
-    },
-    {
-        "product_id": 36,
-        "category": "Clothing",
-        "description": "Women's Gloves",
-        "details": ["Touchscreen Compatible", "Leather"]
-    },
-    {
-        "product_id": 37,
-        "category": "Electronics",
-        "description": "Bluetooth Speaker",
-        "details": ["Portable", "Waterproof"]
-    },
-    {
-        "product_id": 38,
-        "category": "Books",
-        "description": "The Road",
-        "details": ["By Cormac McCarthy", "Post-Apocalyptic Fiction"]
-    },
-    {
-        "product_id": 39,
-        "category": "Clothing",
-        "description": "Men's Tie",
-        "details": ["Silk", "Classic Pattern"]
-    },
-    {
-        "product_id": 40,
-        "category": "Electronics",
-        "description": "External Hard Drive",
-        "details": ["2TB", "USB 3.0"]
-    },
-    {
-        "product_id": 41,
-        "category": "Books",
-        "description": "Wuthering Heights",
-        "details": ["By Emily Brontë", "Gothic Fiction"]
-    },
-    {
-        "product_id": 42,
-        "category": "Clothing",
-        "description": "Women's Watch",
-        "details": ["Digital", "Fitness Tracker"]
-    },
-    {
-        "product_id": 43,
-        "category": "Electronics",
-        "description": "Wireless Printer",
-        "details": ["All-in-One", "Color Printing"]
-    },
-    {
-        "product_id": 44,
-        "category": "Books",
-        "description": "The Alchemist",
-        "details": ["By Paulo Coelho", "Philosophical Novel"]
-    },
-    {
-        "product_id": 45,
-        "category": "Clothing",
-        "description": "Men's Belt",
-        "details": ["Genuine Leather", "Classic Buckle"]
-    },
-    {
-        "product_id": 46,
-        "category": "Clothing",
-        "description": "Women's Sweater",
-        "details": ["Wool", "Winter Fashion"]
-    },
-    {
-        "product_id": 47,
-        "category": "Electronics",
-        "description": "Smartwatch",
-        "details": ["Fitness Tracker", "Heart Rate Monitor"]
-    },
-    {
-        "product_id": 48,
-        "category": "Books",
-        "description": "Artificial Intelligence",
-        "details": ["By Stuart Russell", "Machine Learning"]
-    },
-    {
-        "product_id": 49,
-        "category": "Clothing",
-        "description": "Men's T-shirt",
-        "details": ["Cotton", "Graphic Print"]
-    },
-    {
-        "product_id": 50,
-        "category": "Electronics",
-        "description": "Tablet",
-        "details": ["10-inch Display", "Android OS"]
-    }
+  {
+    "product_id": 1,
+    "category": "Electronics",
+    "description": "Smartphone",
+    "details": ["5G", "128GB Storage"]
+  },
+  {
+    "product_id": 2,
+    "category": "Books",
+    "description": "Introduction to Algorithms",
+    "details": ["By Cormen", "Third Edition"]
+  },
+  {
+    "product_id": 3,
+    "category": "Clothing",
+    "description": "Men's Shirt",
+    "details": ["Cotton", "Slim Fit"]
+  },
+  {
+    "product_id": 4,
+    "category": "Electronics",
+    "description": "Laptop",
+    "details": ["Intel Core i7", "16GB RAM"]
+  },
+  {
+    "product_id": 5,
+    "category": "Books",
+    "description": "The Great Gatsby",
+    "details": ["By F. Scott Fitzgerald", "Classic Literature"]
+  },
+  {
+    "product_id": 6,
+    "category": "Clothing",
+    "description": "Women's Dress",
+    "details": ["Polyester", "Casual Wear"]
+  },
+  {
+    "product_id": 7,
+    "category": "Electronics",
+    "description": "Headphones",
+    "details": ["Wireless", "Noise Cancelling"]
+  },
+  {
+    "product_id": 8,
+    "category": "Books",
+    "description": "Python Programming",
+    "details": ["By Guido van Rossum", "Programming Guide"]
+  },
+  {
+    "product_id": 9,
+    "category": "Clothing",
+    "description": "Men's Jeans",
+    "details": ["Denim", "Regular Fit"]
+  },
+  {
+    "product_id": 10,
+    "category": "Electronics",
+    "description": "Digital Camera",
+    "details": ["20MP", "4K Video"]
+  },
+  {
+    "product_id": 11,
+    "category": "Books",
+    "description": "The Hobbit",
+    "details": ["By J.R.R. Tolkien", "Fantasy Fiction"]
+  },
+  {
+    "product_id": 12,
+    "category": "Clothing",
+    "description": "Women's Shoes",
+    "details": ["High Heels", "Leather"]
+  },
+  {
+    "product_id": 13,
+    "category": "Electronics",
+    "description": "Smart TV",
+    "details": ["55-inch", "4K HDR"]
+  },
+  {
+    "product_id": 14,
+    "category": "Books",
+    "description": "The Catcher in the Rye",
+    "details": ["By J.D. Salinger", "Coming of Age"]
+  },
+  {
+    "product_id": 15,
+    "category": "Clothing",
+    "description": "Men's Watch",
+    "details": ["Analog", "Leather Strap"]
+  },
+  {
+    "product_id": 16,
+    "category": "Electronics",
+    "description": "Gaming Console",
+    "details": ["PlayStation 5", "Ray Tracing"]
+  },
+  {
+    "product_id": 17,
+    "category": "Books",
+    "description": "To Kill a Mockingbird",
+    "details": ["By Harper Lee", "Southern Gothic"]
+  },
+  {
+    "product_id": 18,
+    "category": "Clothing",
+    "description": "Women's Handbag",
+    "details": ["Designer", "Leather"]
+  },
+  {
+    "product_id": 19,
+    "category": "Electronics",
+    "description": "Wireless Earbuds",
+    "details": ["Bluetooth", "Noise Isolation"]
+  },
+  {
+    "product_id": 20,
+    "category": "Books",
+    "description": "1984",
+    "details": ["By George Orwell", "Dystopian Fiction"]
+  },
+  {
+    "product_id": 21,
+    "category": "Clothing",
+    "description": "Men's Hat",
+    "details": ["Fedora", "Wool"]
+  },
+  {
+    "product_id": 22,
+    "category": "Electronics",
+    "description": "Fitness Tracker",
+    "details": ["Heart Rate Monitor", "Sleep Tracking"]
+  },
+  {
+    "product_id": 23,
+    "category": "Books",
+    "description": "Moby-Dick",
+    "details": ["By Herman Melville", "Adventure Novel"]
+  },
+  {
+    "product_id": 24,
+    "category": "Clothing",
+    "description": "Women's Sunglasses",
+    "details": ["UV Protection", "Fashion"]
+  },
+  {
+    "product_id": 25,
+    "category": "Electronics",
+    "description": "Wireless Mouse",
+    "details": ["Ergonomic Design", "DPI Adjustment"]
+  },
+  {
+    "product_id": 26,
+    "category": "Books",
+    "description": "The Lord of the Rings",
+    "details": ["By J.R.R. Tolkien", "High Fantasy"]
+  },
+  {
+    "product_id": 27,
+    "category": "Clothing",
+    "description": "Men's Backpack",
+    "details": ["Waterproof", "Laptop Compartment"]
+  },
+  {
+    "product_id": 28,
+    "category": "Electronics",
+    "description": "Smart Home Hub",
+    "details": ["Voice Control", "Home Automation"]
+  },
+  {
+    "product_id": 29,
+    "category": "Books",
+    "description": "Pride and Prejudice",
+    "details": ["By Jane Austen", "Romantic Novel"]
+  },
+  {
+    "product_id": 30,
+    "category": "Clothing",
+    "description": "Women's Scarf",
+    "details": ["Cashmere", "Winter Fashion"]
+  },
+  {
+    "product_id": 31,
+    "category": "Electronics",
+    "description": "Wireless Keyboard",
+    "details": ["Mechanical", "RGB Lighting"]
+  },
+  {
+    "product_id": 32,
+    "category": "Books",
+    "description": "Brave New World",
+    "details": ["By Aldous Huxley", "Dystopian Fiction"]
+  },
+  {
+    "product_id": 33,
+    "category": "Clothing",
+    "description": "Men's Wallet",
+    "details": ["Leather", "Slim Design"]
+  },
+  {
+    "product_id": 34,
+    "category": "Electronics",
+    "description": "Home Security Camera",
+    "details": ["1080p", "Motion Detection"]
+  },
+  {
+    "product_id": 34,
+    "category": "Electronics",
+    "description": "Home Security Camera",
+    "details": ["1080p", "Motion Detection"]
+  },
+  {
+    "product_id": 35,
+    "category": "Books",
+    "description": "The Odyssey",
+    "details": ["By Homer", "Epic Poetry"]
+  },
+  {
+    "product_id": 36,
+    "category": "Clothing",
+    "description": "Women's Gloves",
+    "details": ["Touchscreen Compatible", "Leather"]
+  },
+  {
+    "product_id": 37,
+    "category": "Electronics",
+    "description": "Bluetooth Speaker",
+    "details": ["Portable", "Waterproof"]
+  },
+  {
+    "product_id": 38,
+    "category": "Books",
+    "description": "The Road",
+    "details": ["By Cormac McCarthy", "Post-Apocalyptic Fiction"]
+  },
+  {
+    "product_id": 39,
+    "category": "Clothing",
+    "description": "Men's Tie",
+    "details": ["Silk", "Classic Pattern"]
+  },
+  {
+    "product_id": 40,
+    "category": "Electronics",
+    "description": "External Hard Drive",
+    "details": ["2TB", "USB 3.0"]
+  },
+  {
+    "product_id": 41,
+    "category": "Books",
+    "description": "Wuthering Heights",
+    "details": ["By Emily Bront\u00c3\u00ab", "Gothic Fiction"]
+  },
+  {
+    "product_id": 42,
+    "category": "Clothing",
+    "description": "Women's Watch",
+    "details": ["Digital", "Fitness Tracker"]
+  },
+  {
+    "product_id": 43,
+    "category": "Electronics",
+    "description": "Wireless Printer",
+    "details": ["All-in-One", "Color Printing"]
+  },
+  {
+    "product_id": 44,
+    "category": "Books",
+    "description": "The Alchemist",
+    "details": ["By Paulo Coelho", "Philosophical Novel"]
+  },
+  {
+    "product_id": 45,
+    "category": "Clothing",
+    "description": "Men's Belt",
+    "details": ["Genuine Leather", "Classic Buckle"]
+  },
+  {
+    "product_id": 46,
+    "category": "Clothing",
+    "description": "Women's Sweater",
+    "details": ["Wool", "Winter Fashion"]
+  },
+  {
+    "product_id": 47,
+    "category": "Electronics",
+    "description": "Smartwatch",
+    "details": ["Fitness Tracker", "Heart Rate Monitor"]
+  },
+  {
+    "product_id": 48,
+    "category": "Books",
+    "description": "Artificial Intelligence",
+    "details": ["By Stuart Russell", "Machine Learning"]
+  },
+  {
+    "product_id": 49,
+    "category": "Clothing",
+    "description": "Men's T-shirt",
+    "details": ["Cotton", "Graphic Print"]
+  },
+  {
+    "product_id": 50,
+    "category": "Electronics",
+    "description": "Tablet",
+    "details": ["10-inch Display", "Android OS"]
+  },
+  {
+    "product_id": 52,
+    "category": "Electronics",
+    "description": "sad",
+    "details": ["sasd"]
+  },
+  {
+    "product_id": 53,
+    "category": "sad",
+    "description": "sad",
+    "details": ["sad"]
+  },
+  {
+    "product_id": 54,
+    "category": "Electronics",
+    "description": "sasda",
+    "details": ["sadasd"]
+  },
+  {
+    "product_id": 55,
+    "category": "dsss",
+    "description": "dsss",
+    "details": ["dss"]
+  },
+  {
+    "product_id": 56,
+    "category": "aysuh",
+    "description": "ayush",
+    "details": ["asdsa"]
+  }
 ]

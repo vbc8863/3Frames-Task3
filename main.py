@@ -8,12 +8,8 @@ def display_product(product):
     print(f"Product ID: {product['product_id']}, Category: {product['category']}, Description: {product['description']}")
 
 def search_products(configurator):
-    print("\nAvailable categories: Books, Electronics, Clothing") 
-    category = get_user_input("Enter the product category (leave blank to search all categories): ").strip()
 
-    if category.lower() not in ["books", "electronics", "clothing"]:
-        print("Invalid category. Please choose from the available categories.")
-        return
+    category = get_user_input("Enter the product category (leave blank to search all categories): ").strip()
 
     query = get_user_input("Enter the search query: ").strip()
 
@@ -43,6 +39,7 @@ def main():
             configurator.add_product()
         elif choice == "2":
             search_products(configurator)
+            configurator.save_to_file()
         elif choice == "3":
             configurator.save_to_file()
             print("Exiting the program.")

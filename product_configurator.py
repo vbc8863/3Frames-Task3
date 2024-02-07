@@ -41,6 +41,7 @@ class ProductConfigurator:
         }
 
         self.products.append(product)
+        
         print("Product added successfully!")
 
     def search_products(self, query, category=None):
